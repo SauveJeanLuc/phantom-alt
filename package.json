@@ -1,0 +1,22 @@
+{
+  "name": "phantom-alt",
+  "version": "1.0.0",
+  "description": "Phantom in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauveJeanLuc/phantom-alt.git"
+  },
+  "author": "SAUVE Jean-Luc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauveJeanLuc/phantom-alt/issues"
+  },
+  "homepage": "https://github.com/SauveJeanLuc/phantom-alt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
